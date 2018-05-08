@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vision 2</string>
+    <string name="app_name2">FaceOff 2</string>
+    <string name="retrieve">1. Get Image</string>
+    <string name="decode">2. Label</string>
+    <string name="unknown">-- Unknown --</string>
+</resources>
